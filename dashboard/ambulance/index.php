@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="title" content="Ambulance SignIn | Aarogya Solutions" />
     <meta name="theme-color" content="#ffffff" />
-    <link type="text/css" href="../css/bootstrap.css" rel="stylesheet" />
+    <link type="text/css" href="../assets/css/bootstrap.css" rel="stylesheet" />
     <link rel="icon" href="../../logo.png" />
 </head>
 
